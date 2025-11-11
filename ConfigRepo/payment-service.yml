@@ -5,7 +5,7 @@ spring:
   datasource:
     url: jdbc:mysql://localhost:3306/paymentdb
     username: root
-    password: Faiz@8488
+    password: "{cipher}30f4f0de08676172ccb1f56b9b4a8ea0c7b31ec19a5a55b86a494a3d650613b2"
     
   jpa:
     properties:
