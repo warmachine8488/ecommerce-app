@@ -5,7 +5,7 @@ spring:
   datasource:
     url: jdbc:mysql://localhost:3306/orderdb
     username: root
-    password: Faiz@8488
+    password: {cipher}bcf64fb7cd799959aa93b9fb271b025323b6cd3d5db4ae48e4176364aae71c377080118c127dd1ebe5176a3e68ccf0d6
     
   jpa:
     properties:
